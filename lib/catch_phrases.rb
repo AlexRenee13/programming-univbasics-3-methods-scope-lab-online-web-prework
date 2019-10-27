@@ -8,6 +8,6 @@ def toadstool
   puts ${status}
 end
 
-def phrase()
+def any_phrase(phrase)
   phrase= "Do a Barrel Roll!"
 end  
